@@ -43,4 +43,6 @@
 
 	-- For Strings
 	-- For int 
+	
+#-- Method
 		
